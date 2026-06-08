@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "firmware_url": "LIEN_RAW_DU_FIRMWARE_A_VENIR",
+  "littlefs_url": "LIEN_RAW_DU_LITTLEFS_A_VENIR",
+  "changelog": "Ajout du vérificateur Internet et préparation OTA."
+}

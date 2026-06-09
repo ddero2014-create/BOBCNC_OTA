@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.6",
   "firmware": {
     "url": "https://raw.githubusercontent.com/ddero2014-create/BOBCNC_OTA/main/BOBCNC_F_1.0.3.bin",
     "type": "firmware"
